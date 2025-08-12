@@ -19,11 +19,16 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 return
+
+        # Update player 
+        player.update(dt)
         
+        # Draw screen
         screen.fill("black")
         player.draw(screen)
-
         pygame.display.flip()
+
+        # Set FPS
         dt = clock.tick(60) / 1000.0
 
 if __name__ == "__main__":

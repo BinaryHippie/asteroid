@@ -1,3 +1,5 @@
+# ~/asteroids/circleshape.py
+
 import pygame
 
 # Base class for game objects

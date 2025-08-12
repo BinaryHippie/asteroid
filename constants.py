@@ -2,6 +2,7 @@
 
 # Player
 PLAYER_RADIUS = 20
+PLAYER_SPEED = 200
 PLAYER_TURN_SPEED = 300
 
 # Screen

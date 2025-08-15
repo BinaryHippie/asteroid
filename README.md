@@ -1,3 +1,4 @@
 # Asteroid
 
-Complete guide with [](boot.dev), might come back and complete it.
+Complete guide with [Boot.dev](boot.dev), might come back and complete it.
+
